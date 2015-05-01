@@ -1,0 +1,14 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nyt-poll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
